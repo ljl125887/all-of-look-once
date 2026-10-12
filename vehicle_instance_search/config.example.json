@@ -1,0 +1,14 @@
+{
+  "config_version": 2,
+  "output_root": "instance_search_results",
+  "category": "车辆",
+  "sensitivity": "标准",
+  "person_model": "FastReID+OSNet融合（推荐）",
+  "sample_fps": 4.0,
+  "streams": [
+    {"enabled": false, "name": "Camera A", "source": ""},
+    {"enabled": false, "name": "Camera B", "source": ""},
+    {"enabled": false, "name": "Camera C", "source": ""},
+    {"enabled": false, "name": "Camera D", "source": ""}
+  ]
+}

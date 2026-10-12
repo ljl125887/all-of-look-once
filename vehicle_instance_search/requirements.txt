@@ -1,0 +1,9 @@
+ultralytics>=8.3,<9
+torch>=2.1
+torchvision>=0.16
+timm>=1.0
+opencv-python>=4.8
+Pillow>=10
+numpy>=1.26
+requests>=2.31
+tqdm>=4.67
